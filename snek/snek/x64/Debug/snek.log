@@ -1,0 +1,24 @@
+﻿  snek.cpp
+C:\Users\kyanw\source\repos\snek\snek\snek.cpp(25,26): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\kyanw\source\repos\snek\snek\snek.cpp(26,28): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\kyanw\source\repos\snek\snek\snek.cpp(31,60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kyanw\source\repos\snek\snek\snek.cpp(31,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kyanw\source\repos\snek\snek\snek.cpp(42,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kyanw\source\repos\snek\snek\snek.cpp(42,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kyanw\source\repos\snek\snek\snek.cpp(42,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kyanw\source\repos\snek\snek\snek.cpp(42,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kyanw\source\repos\snek\snek\snek.cpp(48,114): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kyanw\source\repos\snek\snek\snek.cpp(48,91): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kyanw\source\repos\snek\snek\snek.cpp(48,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kyanw\source\repos\snek\snek\snek.cpp(48,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kyanw\source\repos\snek\snek\snek.cpp(55,122): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kyanw\source\repos\snek\snek\snek.cpp(55,94): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kyanw\source\repos\snek\snek\snek.cpp(55,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kyanw\source\repos\snek\snek\snek.cpp(55,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kyanw\source\repos\snek\snek\snek.cpp(57,126): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kyanw\source\repos\snek\snek\snek.cpp(57,97): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kyanw\source\repos\snek\snek\snek.cpp(57,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kyanw\source\repos\snek\snek\snek.cpp(57,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kyanw\source\repos\snek\snek\snek.cpp(58,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kyanw\source\repos\snek\snek\snek.cpp(58,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  snek.vcxproj -> C:\Users\kyanw\source\repos\snek\x64\Debug\snek.exe
